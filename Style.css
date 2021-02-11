@@ -1,0 +1,10 @@
+.body {padding: 20px; margin: 0; background-color: #2E2787; justify-content: space-around;}
+.formation {justify-content: space-around; margin: auto; padding: 0%; width: 100vw; height: 100vh;background-color: #318CE7;padding-top: 60px;}
+.format {text-align: center; width: 600px; height: 520px; box-sizing: border-box; background-color: #2E2787; margin: auto; padding:70px;padding-top: 50px; padding-bottom: 30px;}
+.heading {color: #ffffee; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+.paragraph {color: #eeeedd;}
+.name {color: #318CE7; font-family: garamond;  margin-bottom: 20px; display: flex; justify-content: left; padding: auto;}
+.email {color: #318CE7; font-family: garamond; margin-bottom: 20px; display: flex; justify-content: left; padding: auto;}
+.message {color: #318CE7; font-family: garamond; margin-bottom: 20px; display: flex; justify-content: left; padding: auto;}
+.submit {width: 120px; height: 35px; background-color:#2E2787;color: #FFF; border-color: #eeeedd; cursor: pointer;border-radius: 0px;}
+.line {border-color: #318CE7;  width="400"}
